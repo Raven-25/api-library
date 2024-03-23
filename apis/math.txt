@@ -1,0 +1,10 @@
+1. Wolfram Alpha API: https://products.wolframalpha.com/api/
+2. Google Charts API: https://developers.google.com/chart
+3. Math.js API: https://mathjs.org/
+4. SymPy API: https://www.sympy.org/en/index.html
+5. Newton API: https://newton.now.sh/
+6. Mathoid API: https://www.mediawiki.org/wiki/Mathoid
+7. Microsoft Math Solver API: https://math.microsoft.com/
+8. Frink API: https://frinklang.org/
+9. CalculatorsWeb API: https://calculatorsweb.com/api/
+10. Mathway API: https://www.mathway.com/API
