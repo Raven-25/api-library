@@ -1,0 +1,10 @@
+1. NewsAPI: https://newsapi.org/
+2. The Guardian API: https://open-platform.theguardian.com/documentation/
+3. The New York Times API: https://developer.nytimes.com/
+4. Reuters News API: https://reuters.com/professional/developers/
+5. BBC News API: https://developer.bbc.com/news
+6. Google News API: https://newsapi.org/s/google-news-api
+7. Bing News Search API: https://www.microsoft.com/en-us/bing/apis/bing-news-search-api
+8. News Data API: https://newsdata.io/
+9. Currents News API: https://currentsapi.services/en
+10. Mediastack News API: https://mediastack.com/
