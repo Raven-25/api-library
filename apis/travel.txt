@@ -1,0 +1,10 @@
+1. Amadeus Travel APIs: https://developers.amadeus.com/
+2. Skyscanner Flight Search API: https://skyscanner.net/g/api
+3. Airbnb API: https://www.airbnb.com/partner
+4. Expedia Affiliate Network API: https://developer.expediapartnersolutions.com/
+5. Tripadvisor Content API: https://developer-tripadvisor.com/content-api/
+6. Booking.com API: https://developers.booking.com/
+7. Yelp Fusion API: https://www.yelp.com/developers/documentation/v3
+8. OpenTripMap API: https://opentripmap.io/product
+9. Aviationstack Aviation Data API: https://aviationstack.com/
+10. Zippopotam.us Location Data API: https://zippopotam.us/
