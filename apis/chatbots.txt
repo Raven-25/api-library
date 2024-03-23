@@ -1,0 +1,10 @@
+1. https://www.dialogflow.com/
+2. https://www.ibm.com/cloud/watson-assistant
+3. https://aws.amazon.com/lex/
+4. https://www.microsoft.com/en-us/azure/ai/bot-service
+5. https://www.pandorabots.com/
+6. https://www.botkit.com/
+7. https://rasa.com/
+8. https://www.botframework.com/
+9. https://www.gupshup.io/developer/home
+10. https://www.botlibre.com/
