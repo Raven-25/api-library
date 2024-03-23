@@ -1,0 +1,10 @@
+1. OpenWeatherMap: https://openweathermap.org/api
+2. WeatherAPI.com: https://www.weatherapi.com/
+3. AccuWeather: https://developer.accuweather.com/
+4. Weather Underground: https://www.wunderground.com/weather/api
+5. Dark Sky: https://darksky.net/dev
+6. Weatherbit.io: https://www.weatherbit.io/api
+7. ClimaCell: https://www.climacell.co/weather-api/
+8. AerisWeather: https://www.aerisweather.com/develop/
+9. Visual Crossing: https://www.visualcrossing.com/weather-api
+10. Ambee: https://www.ambee.com/weather-api
