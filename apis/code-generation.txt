@@ -1,0 +1,10 @@
+1. OpenAI Codex: https://openai.com/codex
+2. Google Codey: https://cloud.google.com/vertex-ai/generative-ai/docs/code/code-models-overview
+3. NLP Cloud Code Generation: https://nlpcloud.com/code-generation.html
+4. CodePal AI Code Generator: https://www.codepal.ai/
+5. DeepCode AI Code Review: https://www.deepcode.ai/
+6. Tabnine AI Code Completion: https://www.tabnine.com/
+7. Kite AI Code Assistance: https://www.kite.com/
+8. Amazon CodeWhisperer: https://aws.amazon.com/codewhisperer/
+9. GitHub Copilot: https://copilot.github.com/
+10. Anthropic Claude: https://www.anthropic.com/product
