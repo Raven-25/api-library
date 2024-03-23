@@ -1,29 +1,10 @@
-- Google Cloud AI APIs (https://cloud.google.com/products/ai)
-    Vision AI, Natural Language, Speech-to-Text, Text-to-Speech, Video Intelligence, etc.
-
-- Microsoft Azure Cognitive Services (https://azure.microsoft.com/en-us/products/cognitive-services)
-    Vision, Speech, Language, Decision, Web Search, etc.
-
-- Amazon Web Services AI Services (https://aws.amazon.com/machine-learning/ai-services/)
-    Rekognition, Polly, Transcribe, Translate, Comprehend, etc.
-	
-- IBM Watson APIs (https://www.ibm.com/cloud/watson-apis)
-    Natural Language Understanding, Speech to Text, Text to Speech, Visual Recognition, etc.
-	
-- OpenAI API (https://openai.com/api/)
-    GPT-3, Codex, DALL-E, etc.
-	
-- Clarifai AI APIs (https://www.clarifai.com/products/ai-apis)
-    Visual Recognition, Natural Language Processing, Workflow Documentation, etc.
-	
-- Imagga AI APIs (https://imagga.com/)
-    Image Recognition, Visual Search, Auto Tagging, etc.
-	
-- Wit.ai (https://wit.ai/)
-    Natural Language Processing API
-
-- Aylien AI APIs (https://aylien.com/text-api)
-    News API, Entity Extraction, Sentiment Analysis, etc.
-	
-- Deepgram AI APIs (https://deepgram.com/products/automatic-speech-recognition)
-    Automatic Speech Recognition, Speech-to-Text, etc.
+1. OpenAI API: https://platform.openai.com/docs/introduction
+2. Google Cloud AI: https://cloud.google.com/products/ai
+3. Amazon Web Services AI: https://aws.amazon.com/machine-learning/
+4. IBM Watson: https://www.ibm.com/cloud/watson-ai
+5. Microsoft Azure AI: https://azure.microsoft.com/en-us/products/category/ai/
+6. Clarifai: https://www.clarifai.com/
+7. Dialogflow: https://cloud.google.com/dialogflow
+8. Aylien: https://aylien.com/
+9. Wit.ai: https://wit.ai/
+10. Rainbird: https://rainbird.ai/
