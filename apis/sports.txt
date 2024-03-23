@@ -1,0 +1,10 @@
+1. TheSportsDB API: https://www.thesportsdb.com/api.php
+2. Sportradar API: https://developer.sportradar.com/
+3. ESPN API: http://developer.espn.com/
+4. SportsData APIs: https://sportsdata.io/developers/
+5. Football-Data API: https://www.football-data.org/
+6. NBA Stats API: https://data.nba.net/
+7. MLB Data API: https://appac.github.io/mlb-data-api-docs/
+8. Cricket API: https://www.cricapi.com/
+9. Squash API: https://squashdata.com/
+10. Weatherbit Sports API: https://www.weatherbit.io/api/sports
