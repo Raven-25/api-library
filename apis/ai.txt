@@ -1,0 +1,29 @@
+- Google Cloud AI APIs (https://cloud.google.com/products/ai)
+    Vision AI, Natural Language, Speech-to-Text, Text-to-Speech, Video Intelligence, etc.
+
+- Microsoft Azure Cognitive Services (https://azure.microsoft.com/en-us/products/cognitive-services)
+    Vision, Speech, Language, Decision, Web Search, etc.
+
+- Amazon Web Services AI Services (https://aws.amazon.com/machine-learning/ai-services/)
+    Rekognition, Polly, Transcribe, Translate, Comprehend, etc.
+	
+- IBM Watson APIs (https://www.ibm.com/cloud/watson-apis)
+    Natural Language Understanding, Speech to Text, Text to Speech, Visual Recognition, etc.
+	
+- OpenAI API (https://openai.com/api/)
+    GPT-3, Codex, DALL-E, etc.
+	
+- Clarifai AI APIs (https://www.clarifai.com/products/ai-apis)
+    Visual Recognition, Natural Language Processing, Workflow Documentation, etc.
+	
+- Imagga AI APIs (https://imagga.com/)
+    Image Recognition, Visual Search, Auto Tagging, etc.
+	
+- Wit.ai (https://wit.ai/)
+    Natural Language Processing API
+
+- Aylien AI APIs (https://aylien.com/text-api)
+    News API, Entity Extraction, Sentiment Analysis, etc.
+	
+- Deepgram AI APIs (https://deepgram.com/products/automatic-speech-recognition)
+    Automatic Speech Recognition, Speech-to-Text, etc.
